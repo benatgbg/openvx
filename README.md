@@ -9,6 +9,6 @@ A small repo to help demo OpenVX to the research team.
 ```
 cmake -B build -G "Visual Studio 15 2017 Win64" .
 cd build
-cmake --build . --Config Debug
+cmake --build . --config Debug
 ```
 
